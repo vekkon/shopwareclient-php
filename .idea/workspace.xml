@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30758476-77af-4a77-827c-a8aa8065e794" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/AclRoleApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/AclRoleApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/AppActionButtonApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/AppActionButtonApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/AppApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/AppApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/AppPaymentMethodApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/AppPaymentMethodApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/AppTemplateApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/AppTemplateApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/AssetManagementApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/AssetManagementApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CategoryApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CategoryApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CmsBlockApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CmsBlockApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CmsPageApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CmsPageApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CmsSectionApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CmsSectionApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CmsSlotApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CmsSlotApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CountryApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CountryApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CountryStateApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CountryStateApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CurrencyApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CurrencyApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CurrencyCountryRoundingApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CurrencyCountryRoundingApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomFieldApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomFieldApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomFieldSetApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomFieldSetApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomFieldSetRelationApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomFieldSetRelationApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomerAddressApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomerAddressApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomerApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomerApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomerGroupApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomerGroupApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomerRecoveryApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomerRecoveryApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomerWishlistApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomerWishlistApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/CustomerWishlistProductApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/CustomerWishlistProductApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/DeadMessageApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/DeadMessageApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/DeliveryTimeApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/DeliveryTimeApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/DocumentApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/DocumentApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/DocumentBaseConfigApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/DocumentBaseConfigApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/DocumentBaseConfigSalesChannelApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/DocumentBaseConfigSalesChannelApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/DocumentManagementApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/DocumentManagementApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/DocumentTypeApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/DocumentTypeApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/EventActionApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/EventActionApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/ImportExportFileApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/ImportExportFileApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/ImportExportLogApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/ImportExportLogApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/ImportExportProfileApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/ImportExportProfileApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/IntegrationApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/IntegrationApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/LandingPageApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/LandingPageApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/LanguageApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/LanguageApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/LocaleApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/LocaleApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/LogEntryApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/LogEntryApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MailHeaderFooterApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MailHeaderFooterApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MailTemplateApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MailTemplateApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MailTemplateTypeApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MailTemplateTypeApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MainCategoryApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MainCategoryApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MediaApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MediaApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MediaDefaultFolderApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MediaDefaultFolderApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MediaFolderApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MediaFolderApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MediaFolderConfigurationApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MediaFolderConfigurationApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MediaThumbnailApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MediaThumbnailApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MediaThumbnailSizeApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MediaThumbnailSizeApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/MessageQueueStatsApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/MessageQueueStatsApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/NewsletterRecipientApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/NewsletterRecipientApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/NumberRangeApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/NumberRangeApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/NumberRangeSalesChannelApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/NumberRangeSalesChannelApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/NumberRangeStateApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/NumberRangeStateApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/NumberRangeTypeApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/NumberRangeTypeApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/OrderAddressApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/OrderAddressApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/OrderApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/OrderApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/OrderCustomerApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/OrderCustomerApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/OrderDeliveryApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/OrderDeliveryApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/OrderDeliveryPositionApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/OrderDeliveryPositionApi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Api/OrderLineItemApi.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Api/OrderLineItemApi.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uzeV2hCg8zoWx0X3SbohL2HZrq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmp" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30758476-77af-4a77-827c-a8aa8065e794" name="Default Changelist" comment="" />
+      <created>1625672864869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625672864869</updated>
+      <workItem from="1625672866029" duration="10000" />
+      <workItem from="1625672983241" duration="86000" />
+      <workItem from="1625674030147" duration="640000" />
+      <workItem from="1625677874848" duration="9982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
